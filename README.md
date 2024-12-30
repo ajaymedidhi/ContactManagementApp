@@ -3,10 +3,7 @@
 Contact Managment Application is a web application designed to manage contacts like add , update ,edit and delete. The application consists of a backend built with Django and Sqlite, and a frontend built with React.
 
 ## Features
-- **User Authentication:** Register and log in users with JWT-based authentication.
-- **Event Management:** CRUD operations for managing events.
-- **Weather Integration:** Fetch weather data based on event location using an external weather API.
-- **Session Management:** Secure session management for authenticated users.
+- **Event Management:** CRUD operations for managing contacts.
 
 ## Project URL
 You can access the project at: [Contact Management App URL](https://contactmanagement7.vercel.app/)
