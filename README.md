@@ -9,20 +9,13 @@ Contact Managment Application is a web application designed to manage contacts l
 - **Session Management:** Secure session management for authenticated users.
 
 ## Project URL
-You can access the project at: [EventManager URL](https://66adf47e43ec4d4f7df6f5b1--flourishing-mandazi-57b93f.netlify.app/)
-
-## Sample Credentials
-Use the following credentials to log in to the application:
-
-- **Email:** ajay@gmail.com
-- **Password:** password123
-
+You can access the project at: [Contact Management App URL](https://contactmanagement7.vercel.app/)
 
 ## Project Setup
 
 ### Prerequisites
-- Node.js (v14 or later)
-- Mongodb
+- Django
+- sqlite
 
 ### 1. Initialize a Node.js Project
 Create a new folder for your project and initialize it with `npm init` to create a `package.json` file.
